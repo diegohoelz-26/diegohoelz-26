@@ -16,7 +16,7 @@ Sou Arquiteto de Soluções e estou evoluindo para um perfil cada vez mais hands
 
 🏀 Basketball Hub Brasil
 
-   Platfin 
+📈 PlatFin
 
 - Cloud (Microsoft Azure, AWS, GCP e OCI)
 - Software Architecture
