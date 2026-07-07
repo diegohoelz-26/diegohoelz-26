@@ -18,8 +18,16 @@ Sou Arquiteto de Soluções e estou evoluindo para um perfil cada vez mais hands
 
    Platfin 
 
+- Cloud (Microsoft Azure, AWS, GCP e OCI)
+- Software Architecture
+- AI-Assisted Development
+- APIs e Sistemas Distribuídos
+- Event-Driven Architecture
+- TypeScript e React
+- PostgreSQL e Oracle
+
 ## Tecnologias
 
-Azure • TypeScript • React • Firebase • APIs • Event-Driven Architecture
+Azure • TypeScript • React • PostgreSQL • Oracle • APIs • Event-Driven Architecture • AI-Assisted Development
 
 📫 LinkedIn: https://www.linkedin.com/in/diego-hoelz-06b33426/
